@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">YourAppName</string>
+
+    <!-- Profile -->
+    <string name="name">Andaz Kumar</string>
+    <string name="member_since">member since Dec, 2020</string>
+
+    <!-- Credit Score -->
+    <string name="credit_score">credit score • REFRESH AVAILABLE</string>
+    <string name="score_value">757</string>
+
+    <!-- Cashback -->
+    <string name="lifetime_cashback">lifetime cashback</string>
+    <string name="cashback_amount">₹3</string>
+
+    <!-- Bank Balance -->
+    <string name="bank_balance_label">bank balance</string>
+    <string name="bank_balance_value">check</string>
+
+    <!-- Rewards -->
+    <string name="rewards_header">YOUR REWARDS &amp; BENEFITS</string>
+    <string name="cashback_balance">cashback balance</string>
+    <string name="cashback_zero">₹0</string>
+    <string name="coins">coins</string>
+    <string name="coin_value">26,46,583</string>
+    <string name="win_reward">win up to ₹1000</string>
+    <string name="refer_earn">refer and earn</string>
+
+    <!-- Transactions -->
+    <string name="transactions_header">TRANSACTIONS &amp; SUPPORT</string>
+    <string name="all_transactions">all transactions</string>
+</resources>
